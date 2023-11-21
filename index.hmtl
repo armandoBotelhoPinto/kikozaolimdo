@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Recomendação </title>
+	</head>
+	<body>
+		<h1><mark style="background-color:blue">Rcomendção de jogos do Roblox</mark></h1>
+		<h1><mark style="background-color:red">por Felipe e Palio</mark></h1>
+		<h1>Jogos</h1>
+		<ol>
+			<li>Melhor Jogo de JoJo:
+				<ul>
+					<a href="https://www.roblox.com/games/6298464951/77-RINGS-Roblox-Is-Unbreakable" target="_blank">Roblox Is Unbreakable</a> 
+                                              <img src="jsjsjs.jpg" alt="casa amarela" width= "128">
+				</ul>
+			<li>O que comi:
+				<ul>
+					<li>Bolinho de arroz;</li>
+					<img src="bolinho.jpg" alt="bolinho de arroz" width= "128">
+					<li>KFC.</li>
+					<img src="ddf.jpg" alt="KFC" width= "128"> 
+				</ul>
+			<li>O que bebi:
+				<ul>
+					<li>Coca-Cola;</li>
+					<img src="coca.jpeg" alt="Coca-Cola" width= "128">
+					<li>Água.</li>
+					<img src="agua.jpg" alt="Água" width= "128">
+				</ul>
+		</ol>
+	</body>
+</html>
