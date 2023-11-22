@@ -1,34 +1,17 @@
 <!DOCTYPE html>
-<html lang="pt-br">
-	<head>
-		<meta charset="UTF-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>Recomendação </title>
-	</head>
-	<body>
-		<h1><mark style="background-color:blue">Rcomendção de jogos do Roblox</mark></h1>
-		<h1><mark style="background-color:red">por Felipe e Palio</mark></h1>
-		<h1>Jogos</h1>
-		<ol>
-			<li>Melhor Jogo de JoJo:
-				<ul>
-					<a href="https://www.roblox.com/games/6298464951/77-RINGS-Roblox-Is-Unbreakable" target="_blank">Roblox Is Unbreakable</a> 
-                                              <img src="jsjsjs.jpg" alt="casa amarela" width= "128">
-				</ul>
-			<li>O que comi:
-				<ul>
-					<li>Bolinho de arroz;</li>
-					<img src="bolinho.jpg" alt="bolinho de arroz" width= "128">
-					<li>KFC.</li>
-					<img src="ddf.jpg" alt="KFC" width= "128"> 
-				</ul>
-			<li>O que bebi:
-				<ul>
-					<li>Coca-Cola;</li>
-					<img src="coca.jpeg" alt="Coca-Cola" width= "128">
-					<li>Água.</li>
-					<img src="agua.jpg" alt="Água" width= "128">
-				</ul>
-		</ol>
-	</body>
+<html>
+<head>
+  <title> Blade Ball</title>
+</head>
+<body style="background-color: gray;">
+  <div class="container">
+    <a href="https://www.roblox.com/games/4282985734/Combat-Warriors">
+      <img src="imagem_2023-11-22_002932452.png" alt="Combat Warriors" />
+    </a>
+    <p><font face="Oswald"><strong><a href="https://www.roblox.com/games/4282985734/Combat-Warriors">Combat Warriors</a> um jogo bem simples, o jogador começa em algum lugar do mapa e tera que lutar pela sua sobrevivencia, e tambem pela sua vitoria quanto mais player voce mata mais ponto voce ganha, Combat warriors e mais um jogo de luta porem no estilo de "guerra"</strong> </font></p>
+    <p2><font face="Oswald"><strong>No jogo existe diversas armas e cada arma tem o seu estilo, porem existe duas clases as armas pesadas que no caso seria armas que causam mais dano, e também teriamos a clase "rapida" que seria armas com menos dano porem voce poderia ficar batendo no seu inimigo toda hora</strong> </font></p2>
+    <p3><font face="Oswald"><strong>As principais armas serião a Dragon slayer (Ela a arma pesada inspirada na obra de <a href="https://pt.wikipedia.org/wiki/Berserk_(mangá)">Bersek</a> e a Motoserra (seria uma arma rapida)</strong> </font></p3>
+  
+  </div>
+</body>
 </html>
